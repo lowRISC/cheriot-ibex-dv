@@ -1,0 +1,3 @@
+[submodule "cheriot-ibex-rtl"]
+	path = cheriot-ibex-rtl
+	url = https://github.com/microsoft/cheriot-ibex

@@ -99,3 +99,4 @@ without needing to update the repository containing that RTL with DV changes.
 
 The initial contents of this repository were drawn from the
 [testrig_intr branch of the lowRISC CHERIoT Ibex fork](https://github.com/lowRISC/cheriot-ibex/tree/testrig_intr).
+Which is a fork of the [Microsoft CHERIoT Ibex](https://github.com/microsoft/cheriot-ibex) repository
